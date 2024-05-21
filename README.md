@@ -1,4 +1,4 @@
-# Teknonymy - Summer Internship Exercise
+# Solução para o problema: Teknonymy - Summer Internship Exercise
 
 ## O Problema
 Teknonymy = tecnónimo
